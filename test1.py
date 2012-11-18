@@ -1,3 +1,6 @@
+def isEven(n):
+	return True if n % 2 == 0 else False
+
 x = int(input("Enter Number = "))
 
-print "Even" if x % 2 == 0 else "Odd"
+print "Even" if isEven(x) == 0 else "Odd"
