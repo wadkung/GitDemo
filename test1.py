@@ -7,4 +7,3 @@ print "Even" if isEven(x) else "Odd"
 
 print "Hello, World"
 
-print "WadJii"
